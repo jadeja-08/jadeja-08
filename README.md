@@ -94,6 +94,13 @@ todo list :https://chatgpt.com/share/673ca58f-8134-8001-b107-3a81db57c76a
 
 
 
+portfolio: https://chatgpt.com/share/673ccf96-47c4-8001-9f0b-51e9fe728051
+
+
+
+
+
+
 Cannot find module 'ajv/dist/compile/codegen'  solution :  npm install --save-dev ajv@^7
 
 

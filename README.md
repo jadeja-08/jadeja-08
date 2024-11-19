@@ -71,5 +71,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 "# jadeja-08" 
 "# jadeja-08" 
 "# dhoni" 
-refer-GPT: https://chatgpt.com/share/673c34d1-1640-8001-9aed-4a394d59e19d
-GPT: https://chatgpt.com/share/673c34d1-1640-8001-9aed-4a394d59e19d
+
+
+refer-GPT  movie_ticket_booking  : https://chatgpt.com/share/673c34d1-1640-8001-9aed-4a394d59e19d
+
+
+
+
+
+refer this also : https://chatgpt.com/share/673c34d1-1640-8001-9aed-4a394d59e19d
+
+
+
+
+
+
+
+todo list :https://chatgpt.com/share/673ca58f-8134-8001-b107-3a81db57c76a
+
+
+
+
+
+
+Cannot find module 'ajv/dist/compile/codegen'  solution :  npm install --save-dev ajv@^7
+
+
+

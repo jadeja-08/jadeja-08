@@ -137,6 +137,13 @@ CLIENT SERVER COMMUNICATION : https://chatgpt.com/share/673e18aa-7df4-8012-92ed-
 
 
 
+Java Chat Application Using Sockets : https://chatgpt.com/share/673e6aaa-66c8-8001-9fce-e5569e5a80a7
+
+
+
+
+
+
 
 
 

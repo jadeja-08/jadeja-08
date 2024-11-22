@@ -148,6 +148,17 @@ Java Chat Application Using Sockets : https://chatgpt.com/share/673e6aaa-66c8-80
 
 
 
+EMD LAB : https://chatgpt.com/share/67406bb5-d448-8001-b14f-730bf4867642
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -236,3 +247,10 @@ button:hover {
 
 
 
+
+
+
+
+
+
+EMD LAB : https://chatgpt.com/share/67406bb5-d448-8001-b14f-730bf4867642

@@ -257,3 +257,18 @@ EMD LAB : https://chatgpt.com/share/67406bb5-d448-8001-b14f-730bf4867642
 
 
 EMD LAB 2 UPDATED : https://chatgpt.com/share/67406bb5-d448-8001-b14f-730bf4867642
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linux Lab : https://chatgpt.com/c/67472626-44d4-800b-b88d-f9025041248e
